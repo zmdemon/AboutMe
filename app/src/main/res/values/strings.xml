@@ -15,4 +15,8 @@
 \n\n\Победит тот, чья норма будет выше для того, чтобы сделать то, что не является нормой в абсолютном смысле
 </string>
     <string name="eyeDescription">Eye</string>
+
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
 </resources>
